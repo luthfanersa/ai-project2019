@@ -5,6 +5,7 @@ phone dataset : https://www.kaggle.com/arwinneil/gsmarena-phone-dataset
 <br>heart disease dataset : https://www.kaggle.com/ronitf/heart-disease-uci
 <br>references : 
 <br>-https://towardsdatascience.com/predicting-presence-of-heart-diseases-using-machine-learning-36f00f3edb2c
+<br>-https://towardsdatascience.com/machine-learning-basics-with-the-k-nearest-neighbors-algorithm-6a6e71d01761
 <br>project samples :
 <br>-https://github.com/kb22/Heart-Disease-Prediction
 
