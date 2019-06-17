@@ -1,2 +1,2 @@
 # ai-project2019
-Sistem Rekomendasi Smartphone dengan metode fp-growth
+memprediksi gejala penyakit jantung dengan metode (K Neighbor calssifier/Support vector classifier/Decision tree classifier/Random forest classifier)
